@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I’m Shraddha Akolkar, a dedicated and detail-oriented Full-Stack MERN Stack Developer currently pursuing my Master of Computer Applications (MCA).
 
-<!--
-**shraddha-akolkar/shraddha-akolkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building modern, scalable, and user-friendly web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), along with strong foundational knowledge of HTML, CSS, JavaScript, and MySQL. I’ve developed several academic and freelance projects like a Coffee Café Web App, Movie Booking System, Doctor Appointment App, and E-commerce Website using React and backend APIs.
 
-Here are some ideas to get you started:
+During my internship as a Full Stack Developer, I worked on live projects including a Hospital Website, DJ Booking Platform, and Class Management System, gaining hands-on experience in backend logic, RESTful APIs, and database integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Exploring:
+Advanced React.js and component libraries
+
+Node.js with Express for backend services
+
+MongoDB for NoSQL data management
+
+API integration and deployment using platforms like Render, Netlify, and Vercel
+
+💡 Let’s Collaborate!
+I’m actively looking for exciting opportunities where I can contribute as a MERN Stack Developer, enhance my skills, and build impactful web solutions.
