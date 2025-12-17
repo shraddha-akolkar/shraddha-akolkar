@@ -1,8 +1,8 @@
 # Hi, I’m Shraddha Akolkar 👋
 
-I’m a **dedicated and detail-oriented Frontend & MERN Stack Developer** currently pursuing my **Master of Computer Applications (MCA)**.
+I’m a **dedicated and detail-oriented Frontend  Developer** currently pursuing my **Master of Computer Applications (MCA)**.
 
-I specialize in building **modern, scalable, and user-friendly web applications** using **React.js and the MERN stack (MongoDB, Express.js, React.js, Node.js)**. I also have strong foundational knowledge of **HTML, CSS, JavaScript**, and experience creating clean, responsive, and intuitive UI/UX designs.
+I specialize in building **modern, scalable, and user-friendly web applications**. I also have strong foundational knowledge of **HTML, CSS, JavaScript**, **TailwindCss** , **ReactJs**, and experience creating clean, responsive, and intuitive UI/UX designs.
 
 ---
 
